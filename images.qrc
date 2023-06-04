@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>images/house.png</file>
+        <file>images/box.png</file>
+        <file>images/down.png</file>
+        <file>images/final.png</file>
+        <file>images/grass.png</file>
+        <file>images/left.png</file>
+        <file>images/right.png</file>
+        <file>images/tree.png</file>
+        <file>images/up.png</file>
+        <file>images/wall.png</file>
+        <file>images/background.png</file>
+        <file>images/win.png</file>
+        <file>images/manual.png</file>
+        <file>images/question.png</file>
+    </qresource>
+</RCC>
